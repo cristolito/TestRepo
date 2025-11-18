@@ -1,1 +1,2 @@
-Heloooooou
+Heloooooou - Este es un cambio de conflicto
+- Este es un conflicto
