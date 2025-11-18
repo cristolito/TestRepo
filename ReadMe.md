@@ -1,0 +1,1 @@
+Este es un ejemplo de repositorio compartido usando git y Github
